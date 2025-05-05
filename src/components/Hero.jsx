@@ -61,7 +61,7 @@ const Hero = () => {
               <a href="#projects" className="btn-glow">
                 View My Work
               </a>
-              <a href="https://drive.google.com/uc?export=download&id=1mOai4dEEG_IROEMtHK_ChN-cGXvoh1NN" download className="btn-glow">
+              <a href="https://drive.google.com/uc?export=download&id=1cXWG0fcZdToAZmc9e6x0qMtJ8UaeZNfm" download className="btn-glow">
                 Download Resume
               </a>
             </motion.div>
